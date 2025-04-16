@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="ro-ro" dir="ltr">
+<head>
+	<base href="https://topsound.ro/favicon.ico" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="scena, scene, sunet, lumina, lumini, video, inchirieri, inchiriere" />
+	<meta name="description" content="Scenă Sunet Lumini Video - Închiriere echipamente, scenă, sunet, lumini și video" />
+	<title>TOPSOUND - Scenă Sunet Lumini Video Led</title>
+	<link href="https://topsound.ro/templates/topsound/html/mod_k2_content/home-slider/css/fractionslider.css" rel="stylesheet" type="text/css" />
+	<link href="/media/mod_languages/css/template.css?a86ea18045fa3a6d6060284067fe6317" rel="stylesheet" type="text/css" />
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"0c5b6c2848ce7ec3db2132268ed22602","system.paths":{"root":"","base":""},"joomla.jtext":{"JLIB_FORM_FIELD_INVALID":"C\u00e2mp invalid:&#160"}}</script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js?a86ea18045fa3a6d6060284067fe6317" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?a86ea18045fa3a6d6060284067fe6317" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?a86ea18045fa3a6d6060284067fe6317" type="text/javascript"></script>
+	<script src="/media/k2/assets/js/k2.frontend.js?v=2.10.3&b=20200429&sitepath=/" type="text/javascript"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.2/jquery.scrollTo.min.js" type="text/javascript"></script>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/media/com_kausgallery/js/jquery.fancybox.min.js" type="text/javascript"></script>
+	<script src="/templates/topsound/js/jquery.mCustomScrollbar.concat.min.js" type="text/javascript"></script>
+	<script src="/templates/topsound/js/general.js" type="text/javascript"></script>
+	<script src="/media/system/js/punycode.js?a86ea18045fa3a6d6060284067fe6317" type="text/javascript"></script>
+	<script src="/media/system/js/validate.js?a86ea18045fa3a6d6060284067fe6317" type="text/javascript"></script>
+	<script src="https://topsound.ro/templates/topsound/html/mod_k2_content/home-slider/js/jquery.fractionslider.js" type="text/javascript"></script>
+	<script src="https://topsound.ro/templates/topsound/html/mod_k2_content/home-slider/js/home-slider.js" type="text/javascript"></script>
+	<script type="text/javascript">
+function do_nothing() { return; }
+	</script>
+	<meta property="og:url" content="https://topsound.ro/favicon.ico" />
+	<meta property="og:title" content="TOPSOUND - Scenă Sunet Lumini Video Led" />
+	<meta property="og:description" content="Scenă Sunet Lumini Video - Închiriere echipamente, scenă, sunet, lumini și video" />
+	<meta property="og:type" content="Article" />
+	<meta property="og:image" content="https://topsound.ro/templates/topsound3/images/logo-fb.png" />
+	<link rel="canonical" href="https://topsound.ro/favicon.ico" />
+
+	<meta name="viewport" content="width=768, user-scalable=no">
+	<link rel="stylesheet" href="/templates/topsound3/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/templates/topsound3/css/bootstrap-theme.min.css">
+	<!--<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.0.3a/ekko-lightbox.min.css">-->
+	<link rel="stylesheet" href="https://topsound.ro/media/com_kausgallery/css/jquery.fancybox.min.css" />
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" />
+	<link rel="stylesheet" href="/templates/topsound3/css/template.css" type="text/css" media="screen,projection" />
+	<link rel="stylesheet" href="/templates/topsound3/css/screens.css" type="text/css" media="screen,projection" />
+	<link rel="stylesheet" href="/templates/topsound3/css/jquery.mCustomScrollbar.min.css" type="text/css" media="screen,projection" />
+	<link rel="icon" type="image/png" href="/templates/topsound3/images/favicon.png" />
+	<script type="text/javascript">
+		var baseURL = "";
+	</script>
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	<script src="//oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
+	<script src="//oss.maxcdn.com/libs/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+</head>
+
+<body class="lang-ro-ro option-com_blankcomponent view-default alias-acasa  homepage">
+
+
+	<header id="header">
+		<div class="header-inner navbar navbar-sticky navbar-stuck">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+														<div class="module mt-logo mod_custom row" id="mt-logo">
+				<div class="col-xs-12">
+										<div class="row module-content">
+						<div class="col-xs-12">
+							
+
+<div class="custom mt-logo"  >
+	<p><a href="#" class="logo-link"><img alt="" src="/images/logo-topsound.png" /></a></p>
+<script type="text/javascript">// <![CDATA[
+jQuery(document).ready(function() {
+        jQuery('a.logo-link').click(function(event) {
+            event.preventDefault();
+            jQuery('.nav.navbar-nav a:first').trigger('click');
+        });
+    });
+// ]]></script></div>
+						</div>
+					</div>
+				</div>
+			</div>
+					<div class="module mt-languageselector mod_languages row" id="mt-languageselector">
+				<div class="col-xs-12">
+										<div class="row module-content">
+						<div class="col-xs-12">
+							<div class="mod-languages mt-languageselector">
+
+	<ul class="lang-inline" dir="ltr">
+									<li class="lang-active">
+			<a href="https://topsound.ro/favicon.ico">
+												<img src="/media/mod_languages/images/ro.gif" alt="Română" title="Română" />										</a>
+			</li>
+								<li>
+			<a href="/en/">
+												<img src="/media/mod_languages/images/en.gif" alt="English (UK)" title="English (UK)" />										</a>
+			</li>
+				</ul>
+
+</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+									</div>
+									<nav role="navigation" class="collapse navbar-collapse main-navbar" data-offset="90">
+						
+<ul class="nav navbar-nav navbar-right ">
+<li class="item-101 text-center"><a href="#despre-noi" >Despre noi</a></li><li class="item-112 text-center"><a href="#echipamente" >Echipamente</a></li><li class="item-126 text-center"><a href="#galerii" >Galerii</a></li><li class="item-114 text-center"><a href="#contact" >Contact</a></li></ul>
+
+					</nav>
+							</div><!-- .container -->
+		</div><!-- .header-inner -->
+	</header><!-- #header -->
+	
+	
+			<section class="section slider">
+						<div class="module despre-noi mod_custom row" id="despre-noi">
+				<div class="col-xs-12">
+										<div class="row module-content">
+						<div class="col-xs-12">
+							
+
+<div class="custom despre-noi"  >
+	</div>
+						</div>
+					</div>
+				</div>
+			</div>
+					<div class="module homeslider mod_k2_content row" id="homeslider">
+				<div class="col-xs-12">
+										<div class="row module-content">
+						<div class="col-xs-12">
+							        <div class="slider-wrapper">
+            <div class="responsive-container">
+                <div class="home-slider">
+                    <div class="fs_loader"></div>
+                                            <div class="slide">
+                                                                                                                                        <img class="homeslider-background" src="https://topsound.ro/media/k2/items/cache/3899dfe821816fbcb3db3e3b23f81585_XL.jpg" data-position="0,-480" data-in="fade" data-out="fade" />
+                                                                                                                                                                                                                                                                                                                                                                                                                    										                                        <div class="homeslider-animated-text" data-position="150,0" data-in="right" data-out="fade" data-delay="0" data-ease-in="linear" data-ease-out="linear">
+                                            <div class="bg-black text-bold">
+                                                                                                                                                            Scenă                                                                                                                                                </div>
+                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        										                                        <div class="homeslider-animated-text" data-position="240,0" data-in="right" data-out="fade" data-delay="500" data-ease-in="linear" data-ease-out="linear">
+                                            <div class="bg-black text-bold">
+                                                                                                                                                            Sunet                                                                                                                                                </div>
+                                        </div>
+                                                                                                                                                                                                                                										                                        <div class="homeslider-animated-text" data-position="330,0" data-in="right" data-out="fade" data-delay="1000" data-ease-in="linear" data-ease-out="linear">
+                                            <div class="bg-black text-bold">
+                                                                                                                                                            Lumini                                                                                                                                                </div>
+                                        </div>
+                                                                                                                                                                    										                                        <div class="homeslider-animated-text" data-position="420,0" data-in="right" data-out="fade" data-delay="1500" data-ease-in="linear" data-ease-out="linear">
+                                            <div class="bg-black text-bold">
+                                                                                                                                                            Video                                                                                                                                                </div>
+                                        </div>
+                                                                                                                                                                    										                                        <div class="homeslider-animated-text" data-position="150,250" data-in="fade" data-out="fade" data-delay="4500" data-ease-in="easeOutSine" data-ease-out="linear">
+                                            <div class="text-head text-black">
+                                                                                                                                                            Alegerea ideală pentru evenimente reușite                                                                                                                                                </div>
+                                        </div>
+                                                                                                                        </div>
+                                            <div class="slide">
+                                                                                                                                                                                                                                                                                                                                                                                        <img class="homeslider-background" src="https://topsound.ro/media/k2/items/cache/542390225756f78888142d54f3d17e01_XL.jpg" data-position="0,-480" data-in="fade" data-out="fade" />
+                                                                                                                                                                                                                                                                                                                                                                                                                    										                                        <div class="homeslider-animated-text" data-position="150,0" data-in="right" data-out="fade" data-delay="0" data-ease-in="linear" data-ease-out="linear">
+                                            <div class="bg-black large text-bold">
+                                                                                                                                                            Scenă                                                                                                                                                </div>
+                                        </div>
+                                                                                                                                                                    										                                        <div class="homeslider-animated-text" data-position="160,245" data-in="fade" data-out="fade" data-delay="3000" data-ease-in="linear" data-ease-out="linear">
+                                            <div class="text-head bg-black-70">
+                                                                                                                                                            adecvată evenimentului                                                                                                                                                </div>
+                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                                            <div class="slide">
+                                                                                                                                                                                                                                                                                                                            <img class="homeslider-background" src="https://topsound.ro/media/k2/items/cache/620466077c427f141effa294382f5fba_XL.jpg" data-position="0,-480" data-in="fade" data-out="fade" />
+                                                                                                                                                                                                                                                                                                                                                                                                                    										                                        <div class="homeslider-animated-text" data-position="150,0" data-in="right" data-out="fade" data-delay="0" data-ease-in="linear" data-ease-out="linear">
+                                            <div class="bg-black large text-bold">
+                                                                                                                                                            Sunet                                                                                                                                                </div>
+                                        </div>
+                                                                                                                                                                                                                                                                                            										                                        <div class="homeslider-animated-text" data-position="160,236" data-in="fade" data-out="fade" data-delay="3000" data-ease-in="linear" data-ease-out="linear">
+                                            <div class="text-head bg-black-70">
+                                                                                                                                                            de excepție cu echipamente pe măsură                                                                                                                                                </div>
+                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div>
+                                            <div class="slide">
+                                                                                                                                                                                                                                                                <img class="homeslider-background" src="https://topsound.ro/media/k2/items/cache/22c02097e4438bd2f2f3fe4a6a3ab0e1_XL.jpg" data-position="0,-480" data-in="fade" data-out="fade" />
+                                                                                                                                                                                                                                                                                                                                                                                                                    										                                        <div class="homeslider-animated-text" data-position="150,0" data-in="right" data-out="fade" data-delay="0" data-ease-in="linear" data-ease-out="linear">
+                                            <div class="bg-black large text-bold">
+                                                                                                                                                            Lumini                                                                                                                                                </div>
+                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                    										                                        <div class="homeslider-animated-text" data-position="160,240" data-in="fade" data-out="fade" data-delay="3000" data-ease-in="linear" data-ease-out="linear">
+                                            <div class="text-head bg-black-70">
+                                                                                                                                                            și experiențe memorabile                                                                                                                                                </div>
+                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+                                            <div class="slide">
+                                                                                                                                                                                                    <img class="homeslider-background" src="https://topsound.ro/media/k2/items/cache/220c08548cac211cc7db219bb52f46cf_XL.jpg" data-position="0,-480" data-in="fade" data-out="fade" />
+                                                                                                                                                                                                                                                                                                                                                                                                                    										                                        <div class="homeslider-animated-text" data-position="150,0" data-in="right" data-out="fade" data-delay="0" data-ease-in="linear" data-ease-out="linear">
+                                            <div class="bg-black large text-bold">
+                                                                                                                                                            Video                                                                                                                                                </div>
+                                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        										                                        <div class="homeslider-animated-text" data-position="160,218" data-in="fade" data-out="fade" data-delay="3000" data-ease-in="linear" data-ease-out="linear">
+                                            <div class="text-head bg-black-70">
+                                                                                                                                                            LED pentru o imagine luminoasă                                                                                                                                                </div>
+                                        </div>
+                                                                                                                                                                                                                                                                                                            </div>
+                                    </div>
+            </div>
+            <div class="background-image-placeholder">
+                <div class="slider">
+                    <div class="slide">
+                    
+                    </div>
+                    <div class="placeholder-stretcher"></div>
+                </div>
+            </div>
+        </div>
+    						</div>
+					</div>
+				</div>
+			</div>
+					<div class="module-contact-info-bar mod_custom row" id="-contact-info-bar">
+				<div class="col-xs-12">
+										<div class="row module-content">
+						<div class="col-xs-12">
+							
+
+<div class="custom-contact-info-bar"  >
+	<h4 class="contact-title">Contactați-ne</h4>
+<p><span class="contact-info"><span class="contact-phone"><span class="glyphicon glyphicon-phone"></span> 0745 548 880</span><a href="/cdn-cgi/l/email-protection#8ae9e5e4feebe9fecafee5faf9e5ffe4eea4f8e5" class="contact-email"><span class="glyphicon glyphicon-envelope"></span> <span class="__cf_email__" data-cfemail="beddd1d0cadfddcafecad1cecdd1cbd0da90ccd1">[email&#160;protected]</span></a><br />
+	</span>
+</p></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+		</section>
+		
+			<section class="section section1 white-blue">
+			
+			<div class="background-overlay"></div>
+			<div class="container">
+							<div class="module despre-noi-module mod_k2_content row" id="despre-noi-module">
+				<div class="col-xs-12">
+											<h3 class="module-title"><span>Despre noi</span></h3>
+										<div class="row module-content">
+						<div class="col-xs-12">
+							
+						<div class="despre-noi-item">
+												<h1 style="font-size: 18px; font-weight: 300; color: #666;">TOPSOUND - SCENĂ SUNET LUMINI VIDEO</h1>
+<h2 style="font-size: 18px; font-weight: 300; color: #666;">Închiriere echipamente, scenă, sunet, lumini și video cu experiență de peste 15 ani în producția de evenimente.</h2>
+<p>Echipa profesionistă este pregătită să depășească așteptările clienților săi. Oferta noastră cuprinde servicii complete pentru realizarea unei game variate de evenimente publice de la conferințe, lansări, inaugurări, spectacole până la concerte live și turnee.</p>
+<p>Experiența acumulată, dotarea tehnică de excepție și logistica asigură succesul evenimentului dumneavoastră.</p>
+<p>&nbsp;</p>			</div>
+			
+
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			</div>
+		</section>
+		
+			<section class="section section-1-2-divider blue-white">
+													<div class="background-media" style="background-image:url('https://topsound.ro//images/backgrounds/bg-01.jpg'); background-position: 0 80%" data-start="background-position: 50% 80%" data-top-bottom="background-position: 50% -30%"></div>
+					
+			<div class="background-overlay"></div>
+			<div class="container"></div>
+		</section>
+		
+			<section class="section section2 white-blue">
+			<div class="container">
+							<div class="module echipamente mod_k2_content row" id="echipamente">
+				<div class="col-xs-12">
+											<h3 class="module-title"><span>Echipamente</span></h3>
+										<div class="row module-content">
+						<div class="col-xs-12">
+							
+<ul class="echipamente-content row">
+						<li class="col-md-3 os-animation animated fadeInUp" data-os-animation="fadeInUp" data-os-animation-delay="0.0s" style="-webkit-animation-delay: 0.0s">
+				<a href="#" class="echipamente-details-toggle" data-toggle="modal" data-target="#modal-1">
+				<div class="box-hex flat-shadow">
+					<div class="box-dummy"></div>
+					<figure class="box-inner">
+						<img class="img-responsive svg-inject" src="https://topsound.ro/media/k2/items/cache/2fa67f482133f1c934235b73c2a03954_L.jpg" alt="" title="Continue reading &quot;Scenă&quot;" />
+					</figure>
+					<div class="hex-right"></div>
+					<div class="hex-left"></div>
+				</div>
+				<h3 class="text-center">Scenă</h3>
+				</a>
+				<div class="echipamente-details-content closed">
+					<p>&nbsp;</p>
+<ul>
+<li><span style="font-size: 12pt;"><strong>Milos &nbsp;</strong>MR2 Sistem acoperiș 12x10m</span></li>
+<li><span style="font-size: 12pt;"><strong>Milos</strong>&nbsp; MR2 Sistem acoperiș 10x8m</span></li>
+<li><span style="font-size: 12pt;"><strong>Milos</strong>&nbsp; MR2 Sistem acoperiș 10x7m</span></li>
+<li><span style="font-size: 12pt;"><strong>Milos</strong>&nbsp; MR2 LT Sistem acoperiș 8x6m</span></li>
+<li><span style="font-size: 12pt;"><strong>Milos</strong> M390 Sistem grinzi</span></li>
+<li><span style="font-size: 12pt;"><strong>Milos</strong> M290 Sistem grinzi</span></li>
+<li><span style="font-size: 12pt;"><strong>Milos</strong> MT1 Sistem turn</span></li>
+<li><span style="font-size: 12pt;"><strong>Milos</strong> MT05 Sistem turn</span></li>
+<li><span style="font-size: 12pt;"><strong>Nivtec</strong> podium scenă</span></li>
+</ul>				</div>
+			</li>
+					<li class="col-md-3 os-animation animated fadeInUp" data-os-animation="fadeInUp" data-os-animation-delay="0.3s" style="-webkit-animation-delay: 0.3s">
+				<a href="#" class="echipamente-details-toggle" data-toggle="modal" data-target="#modal-2">
+				<div class="box-hex flat-shadow">
+					<div class="box-dummy"></div>
+					<figure class="box-inner">
+						<img class="img-responsive svg-inject" src="https://topsound.ro/media/k2/items/cache/e0a70f72bdae9885bfc32d7cd19a26a1_L.jpg" alt="" title="Continue reading &quot;Sunet&quot;" />
+					</figure>
+					<div class="hex-right"></div>
+					<div class="hex-left"></div>
+				</div>
+				<h3 class="text-center">Sunet</h3>
+				</a>
+				<div class="echipamente-details-content closed">
+					<h4 style="text-align: center;"><span style="font-size: 14pt;"><strong>Sistem PA</strong></span></h4>
+<ul>
+<li><strong>d<span style="font-family: arial, helvetica, sans-serif;">&amp;</span>b&nbsp; &nbsp;Audiotechnik&nbsp; &nbsp;</strong>V-Series</li>
+<li><strong>d<span style="font-family: arial, helvetica, sans-serif;">&amp;</span>b&nbsp; &nbsp;Audiotechnik&nbsp; &nbsp;</strong>SL-SUB</li>
+<li><strong>RCF</strong>&nbsp;TTL33-A II Line Array</li>
+<li><strong>RCF</strong> TTS28-A &nbsp;Subwoofer activ</li>
+<li><strong>RCF</strong> 4PRO 6001-A Boxă activă</li>
+<li><strong>RCF</strong> 4PRO 8001-A &nbsp;Subwoofer activ</li>
+<li><strong>RCF</strong> TT08-A Boxă activă</li>
+<li><strong>RCF</strong> TTS12-A Subwoofer activ</li>
+<li><strong>L-Acoustics</strong> SB18 Subwoofer</li>
+</ul>
+<h4 style="font-size: 11px; text-align: center;"><span style="font-size: 14pt;"><strong>Sistem Monitoare</strong></span></h4>
+<ul>
+<li><strong>L-Acoustics</strong>&nbsp; 115XT HiQ Monitor coaxial/biamp&nbsp;<span style="font-weight: bold; color: #545454; font-family: arial, sans-serif; font-size: small; line-height: 18.2000007629395px;"><br /></span></li>
+<li><strong>L-Acoustics</strong>&nbsp; LA8 Amplificator controler digital</li>
+<li><strong>Sommer</strong> 32/8 Stagebox split monitorizare</li>
+</ul>
+<h4 style="font-size: 11px; text-align: center;"><span style="font-size: 14pt;"><strong>Mixere</strong></span></h4>
+<ul>
+<li><strong>Avid</strong>&nbsp; Venue SC48 Remote Mixer digital</li>
+<li><strong>Midas</strong> &nbsp;Pro1 Mixer digital</li>
+<li><strong>Midas&nbsp; &nbsp;</strong>M32 Live</li>
+<li><strong>Soundcraft</strong>&nbsp; MH2 Mixer analog</li>
+<li><strong>Soundcraft</strong>&nbsp; GB8 &nbsp;Mixer analog</li>
+<li><strong>Dynacord</strong> PM1000-3 Mixer analog cu amplificare</li>
+</ul>
+<h4 style="text-align: center;"><span style="font-size: 14pt;"><strong>FX &amp; Dynamics</strong></span></h4>
+<ul>
+<li><strong>Yamaha</strong> SPX 990</li>
+<li><strong>Lexicon &nbsp;</strong>REV550 Multi FX</li>
+<li><strong>TC Electronic &nbsp;</strong>D2 Delay</li>
+<li><strong>Yamaha &nbsp;</strong>REV500 Reverb</li>
+<li><strong>BSS </strong>FCS 960 Eqalizator stereo</li>
+<li><strong>Klark Teknik </strong>Square One Procesor dynamics<span style="color: #545454; font-family: arial, sans-serif; font-size: small; line-height: 18.2000007629395px;"><br /></span></li>
+</ul>
+<h4 style="text-align: center;"><span style="font-size: 14pt;"><strong>Microfoane</strong></span></h4>
+<ul>
+<li><strong>Shure </strong>ULXD4D Receptor wireless digital</li>
+<li><strong>Shure </strong>ULXD2 SM58 Beta/SM58 Microfon wireless&nbsp; &nbsp;digital</li>
+<li><strong>Shure</strong> UR4D Receptor wireless</li>
+<li><strong>Shure </strong>UR2 KSM9/SM58 Beta/SM58 Microfon wireless</li>
+<li><strong>Sennheiser</strong>&nbsp; EW Sisteme microfon wireless</li>
+<li><strong>Neumann</strong> KM184&nbsp; &nbsp;Microfon &nbsp;condenser</li>
+<li><strong>DPA</strong>&nbsp; Classic Touring Kits</li>
+<li><strong>Audio-Techinca</strong> ATM350</li>
+<li><strong>Shure</strong> SM 87 Beta Microfon&nbsp;</li>
+<li><strong>Shure</strong> SM 58 Beta, SM&nbsp; 58&nbsp; Microfon dinamic</li>
+<li><strong>Shure</strong>&nbsp; SM 57 Microfon dinamic</li>
+<li><strong>Shure</strong> 52A Beta Microfon tobă</li>
+<li><strong>Shure&nbsp;</strong> Beta 81A&nbsp; &nbsp;Microfon tobă</li>
+<li><strong>AKG</strong> 451b &nbsp;Microfon &nbsp;condenser</li>
+<li><strong>AKG&nbsp; &nbsp;</strong>C414&nbsp; &nbsp;XLS Microfon &nbsp;condenser</li>
+<li><strong>Sennheiser</strong> e614 Microfon&nbsp;</li>
+<li><strong>Sennheiser</strong> e600 Kit tobe</li>
+<li><strong>Sennheiser</strong> e900 Kit tobe</li>
+</ul>
+<h4 style="text-align: center;"><span style="font-size: 14pt;"><strong>Backline</strong></span></h4>
+<ul>
+<li><strong>Tama Star&nbsp;</strong> Bubinga&nbsp; Drum set</li>
+<li><strong>Yamaha Tour Custom</strong>&nbsp; Drum set</li>
+<li><strong>Ampeg</strong> SVT-7PRO Bass Head</li>
+<li><strong>Ampeg</strong> PN-410HLF&nbsp; &nbsp;Cabinet bass</li>
+<li><strong>Trace Elliot</strong> AH1200 Amplificator bass</li>
+<li><strong>Trace Elliot</strong> 1048H Cabinet bass</li>
+<li><strong>Fender</strong> 65 Twin Reverb&nbsp; &nbsp;Amplificator combo</li>
+<li><strong>Vox</strong> AC30 C2&nbsp; &nbsp;Amplificator combo&nbsp;</li>
+<li><strong>Marshall</strong> JCM2000 Amplificator chitară</li>
+<li><strong>Marshall</strong>&nbsp; JCM800 &nbsp;Amplificator chitară</li>
+<li><strong>Marshall</strong> 1960A Cabinet&nbsp;</li>
+</ul>				</div>
+			</li>
+					<li class="col-md-3 os-animation animated fadeInUp" data-os-animation="fadeInUp" data-os-animation-delay="0.6s" style="-webkit-animation-delay: 0.6s">
+				<a href="#" class="echipamente-details-toggle" data-toggle="modal" data-target="#modal-3">
+				<div class="box-hex flat-shadow">
+					<div class="box-dummy"></div>
+					<figure class="box-inner">
+						<img class="img-responsive svg-inject" src="https://topsound.ro/media/k2/items/cache/94d43e327d9303539cb1e2aac7032668_L.jpg" alt="" title="Continue reading &quot;Lumini&quot;" />
+					</figure>
+					<div class="hex-right"></div>
+					<div class="hex-left"></div>
+				</div>
+				<h3 class="text-center">Lumini</h3>
+				</a>
+				<div class="echipamente-details-content closed">
+					<h4 style="text-align: center;"><strong>Inteligente<br /></strong></h4>
+<ul>
+<li><span style="font-size: 12pt;"><b>Fine Art&nbsp; &nbsp;</b>&nbsp;Fine 440&nbsp; BSW ENHA</span></li>
+<li><span style="font-size: 12pt;"><b>Fine Art </b>Xtreme 280 Beam</span></li>
+<li><span style="font-size: 12pt;"><strong>JB Lighting</strong>&nbsp; A8 Zoom Beam-Wash</span></li>
+<li><span style="font-size: 12pt;"><strong>JB Lighting</strong> VaryScan P6 Spot</span></li>
+<li><span style="font-size: 12pt;"><strong>JB Lighting</strong> VaryColor P6 Wash</span></li>
+<li><span style="font-size: 12pt;"><strong>JB Lighting</strong> VaryScan P3 Spot</span></li>
+<li><span style="font-size: 12pt;"><strong>JB Lighting</strong> VaryLED 3*84 Wash</span></li>
+</ul>
+<h4 style="text-align: center;"><span style="font-size: 14pt;"><strong>Convenționale</strong></span></h4>
+<ul>
+<li><strong>SlimPar QCL&nbsp; &nbsp;</strong>Proiector LED</li>
+<li><strong>Par 64 </strong>&nbsp;Proiector PAR 1kw</li>
+<li><strong>Spot &nbsp;</strong>Proiector 1kw PC</li>
+<li><strong>Spot &nbsp;</strong>Proiector 2kw fresnel</li>
+<li><strong>DTS</strong>&nbsp; Spot de urmărire 1200w</li>
+<li><strong>Robert Juliat</strong>&nbsp; Spot de urmărire 575w</li>
+<li><strong>Eurolite</strong>&nbsp; Blinder 2xPAR36 DMX</li>
+<li><strong>Eurolite</strong>&nbsp; Blinder 4xPAR36 DMX</li>
+</ul>
+<h4 style="text-align: center;"><span style="font-size: 14pt;"><strong>Console</strong></span></h4>
+<ul>
+<li><strong>Avolites</strong> &nbsp;Tiger Touch II</li>
+<li><strong>Avolites</strong> &nbsp;Mobile</li>
+<li><strong>Avolites</strong> &nbsp;Titan One</li>
+</ul>				</div>
+			</li>
+					<li class="col-md-3 os-animation animated fadeInUp" data-os-animation="fadeInUp" data-os-animation-delay="0.9s" style="-webkit-animation-delay: 0.9s">
+				<a href="#" class="echipamente-details-toggle" data-toggle="modal" data-target="#modal-4">
+				<div class="box-hex flat-shadow">
+					<div class="box-dummy"></div>
+					<figure class="box-inner">
+						<img class="img-responsive svg-inject" src="https://topsound.ro/media/k2/items/cache/2ff2ba0051687eef5ca0459cf942940c_L.jpg" alt="" title="Continue reading &quot;Video&quot;" />
+					</figure>
+					<div class="hex-right"></div>
+					<div class="hex-left"></div>
+				</div>
+				<h3 class="text-center">Video</h3>
+				</a>
+				<div class="echipamente-details-content closed">
+					<p>&nbsp;</p>
+<ul>
+<li><strong>Ecran LED&nbsp; Absen&nbsp; </strong>P4.7&nbsp; SMD 60mp</li>
+<li><strong>Ecran LED</strong>&nbsp; P8 SMD 24 mp</li>
+<li><strong>Ecran LED &nbsp;</strong>&nbsp;P10 SMD 24 mp</li>
+<li><strong>Sanyo</strong>&nbsp; PLC-XF1000 Proiector 12000 ANSI</li>
+<li><b>Barco&nbsp; &nbsp;</b>DP2K-15C&nbsp; &nbsp;Proiector cinema DCP&nbsp; &nbsp;15000 ANSI</li>
+<li>&nbsp;&nbsp;<strong>AV Stumpfl </strong>Vario64 Ecran&nbsp; &nbsp;video&nbsp; 650x370 front</li>
+<li><strong>Fast-Fold</strong> Ecran video 400x300 front - rear</li>
+<li><strong>Panasonic</strong> Plasma 50" display</li>
+</ul>				</div>
+			</li>
+			</ul>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			</div>
+		</section>
+		
+			<section class="section section-2-3-divider blue-white">
+													<div class="background-media" style="background-image:url('https://topsound.ro//images/backgrounds/bg-02.jpg'); background-position: 0 80%" data-start="background-position: 50% 80%" data-top-bottom="background-position: 50% -30%"></div>
+					
+			<div class="background-overlay"></div>
+			<div class="container"></div>
+		</section>
+		
+		
+		
+			<section class="section section4 white-blue">
+			<div class="container">
+							<div class="module galerii mod_kausgallery row" id="galerii">
+				<div class="col-xs-12">
+											<h3 class="module-title"><span>Galerii</span></h3>
+										<div class="row module-content">
+						<div class="col-xs-12">
+							
+
+<ul class="galerii-content row">
+
+    
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-39">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/39/med/e3da762a32100118d90f723c812dbea7-01--1-.jpg" alt="" title="Oradea Festifall 2019" /></a>
+                            <a href="#" class="figcaption" data-gallery="39">
+                                <h4>Oradea Festifall 2019</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-40">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/40/med/bf787b24a23b96388dff78f2c6614d37-001--1-.jpg" alt="" title="Orasul Faptelor Bune 2019" /></a>
+                            <a href="#" class="figcaption" data-gallery="40">
+                                <h4>Orasul Faptelor Bune 2019</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-41">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/41/med/e3b28094d6930ab02180fdb9f9dc1319-001.1.jpg" alt="" title="Bucovina Rock Castle 2019" /></a>
+                            <a href="#" class="figcaption" data-gallery="41">
+                                <h4>Bucovina Rock Castle 2019</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-37">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/37/med/5dd9f37e213388d9192165a335472d10-04. toamna-oradeana-2018-ziua-a-4-a-concert-carlas-dreams-59880.jpg" alt="" title="Toamna Oradeana 2018" /></a>
+                            <a href="#" class="figcaption" data-gallery="37">
+                                <h4>Toamna Oradeana 2018</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-38">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/38/med/6d2e46696afca182a3d42b6b08dcb64f-romania-ne-undeste-62909.jpg" alt="" title="Romania ne Uneste! 2018" /></a>
+                            <a href="#" class="figcaption" data-gallery="38">
+                                <h4>Romania ne Uneste! 2018</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-34">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/34/med/322abf027ba3bb24896c312008de77ef-03.jpg" alt="" title="Toamna Oradeana 2017" /></a>
+                            <a href="#" class="figcaption" data-gallery="34">
+                                <h4>Toamna Oradeana 2017</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-35">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/35/med/bbd84388b06051ac1b1d692fda8c574a-01.1 (2).jpg" alt="" title="Festivalul Medieval al Cetății Oradea 2017" /></a>
+                            <a href="#" class="figcaption" data-gallery="35">
+                                <h4>Festivalul Medieval al Cetății Oradea 2017</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-36">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/36/med/374fcf0703c69012817ae64233eb5ac4-01.1.jpg" alt="" title="Zilele Sf. Ladislau 2017" /></a>
+                            <a href="#" class="figcaption" data-gallery="36">
+                                <h4>Zilele Sf. Ladislau 2017</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-33">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/33/med/071cd828cdf514b81d149ac97dec6e47-001.jpg" alt="" title="Toamna Oradeana 2016" /></a>
+                            <a href="#" class="figcaption" data-gallery="33">
+                                <h4>Toamna Oradeana 2016</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-32">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/32/med/aab0482c5212a6d8725266838277a72b-01.jpg" alt="" title="Zilele Culturale Maghiare din Timisoara 2016" /></a>
+                            <a href="#" class="figcaption" data-gallery="32">
+                                <h4>Zilele Culturale Maghiare din Timisoara 2016</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-31">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/31/med/58d9477d76c3e5fe1f2aad5814d1964d-04--1-.jpg" alt="" title="Zilele Sf. Ladislau 2016" /></a>
+                            <a href="#" class="figcaption" data-gallery="31">
+                                <h4>Zilele Sf. Ladislau 2016</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-29">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/29/med/8ef65adf86689e38b1d968d040c97ddb-21.jpg" alt="" title="Gala Uniter 2016" /></a>
+                            <a href="#" class="figcaption" data-gallery="29">
+                                <h4>Gala Uniter 2016</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-27">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/27/med/f6ddaf6509793847d3ff5641ce2319ab-01.jpg" alt="" title="Toamna Orădeană 2015" /></a>
+                            <a href="#" class="figcaption" data-gallery="27">
+                                <h4>Toamna Orădeană 2015</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-20">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/20/med/a681f0685ea3b25c54286edd5181da70--DSC1733.jpg" alt="" title="Concertul Referendumului 2015" /></a>
+                            <a href="#" class="figcaption" data-gallery="20">
+                                <h4>Concertul Referendumului 2015</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-18">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/18/med/99a3109c22e9fc9f138e92d7c7c62fde-DSC-6566.jpg" alt="" title="Concert Holograf  2013" /></a>
+                            <a href="#" class="figcaption" data-gallery="18">
+                                <h4>Concert Holograf  2013</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+            
+                <li class="col-md-4">
+                    
+                        <div class="hidden-gallery gallery-15">
+
+                        </div>
+                    
+                    <div class="box-hex flat-shadow">
+                        <div class="box-dummy"></div>
+                        <figure class="box-inner">
+                            <a href="#"><img class="img-responsive svg-inject" src="https://topsound.ro/media/com_kausgallery/upload/15/med/010183d241bd13ac5295aef963d7ee8d-780c058f9065b15aa17c0d2fac2507e2-DSC-0068.jpg" alt="" title="Festival Internațional de Folclor 2013" /></a>
+                            <a href="#" class="figcaption" data-gallery="15">
+                                <h4>Festival Internațional de Folclor 2013</h4>
+                            </a>
+                        </figure>
+                        <div class="hex-right"></div>
+                        <div class="hex-left"></div>
+                    </div>
+                </li>
+            
+        
+    
+    
+</ul>						</div>
+					</div>
+				</div>
+			</div>
+		
+			</div>
+		</section>
+		
+			<section class="section section-4-5-divider blue-white">
+													<div class="background-media" style="background-image:url('https://topsound.ro//images/backgrounds/bg-04.jpg'); background-position: 0 80%" data-start="background-position: 50% 80%" data-top-bottom="background-position: 50% -30%"></div>
+					
+			<div class="background-overlay"></div>
+			<div class="container"></div>
+		</section>
+		
+			<section class="section section5 white-blue">
+						<div class="container">
+							<div class="module mod_custom row" id="">
+				<div class="col-xs-12">
+											<h3 class="module-title"><span>Contact</span></h3>
+										<div class="row module-content">
+						<div class="col-xs-12">
+							
+
+<div class="custom"  >
+	</div>
+						</div>
+					</div>
+				</div>
+			</div>
+					<div class="module contact-info mod_custom row" id="contact-info">
+				<div class="col-xs-12">
+										<div class="row module-content">
+						<div class="col-xs-12">
+							
+
+<div class="custom contact-info"  >
+	<p style="text-align: center; padding-left: 30px;">&nbsp;&nbsp; S.C. TOPSOUND S.R.L.<br />Oradea</p>
+<p style="text-align: center; padding-left: 30px;">0745 548 880<br />0259 427 813</p>
+<p style="text-align: center; padding-left: 30px;"><a href="/cdn-cgi/l/email-protection#eb8884859f8a889fab9f849b98849e858fc59984"><span class="__cf_email__" data-cfemail="d3b0bcbda7b2b0a793a7bca3a0bca6bdb7fda1bc">[email&#160;protected]</span></a></p></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+				<div class="section5 half-left col-sm-6 col-xs-12">
+								<div class="module contact mod_kausform row" id="contact">
+				<div class="col-xs-12">
+										<div class="row module-content">
+						<div class="col-xs-12">
+							
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+
+    jQuery(document).ready(function() {
+
+        jQuery('.module.contact input,.module.contact textarea').each(function() {
+
+            jQuery(this).attr('placeholder', jQuery.trim(jQuery(this).prev().text()));
+
+        });
+
+    });
+
+</script>
+
+
+
+<form action="/" method="post" role="form" id="submit-form" class="row form-validate">
+
+    
+    
+
+    
+</form>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		
+				</div>
+				<div class="section5 half-right col-sm-6 col-xs-12">
+					
+				</div>
+				
+			</div>
+		</section>
+		
+			<footer id="footer">
+																	<div class="background-media" style="background-image:url('https://topsound.ro//images/backgrounds/bg-04.jpg'); background-position: 0 80%" data-start="background-position: 50% 80%" data-top-bottom="background-position: 50% -30%"></div>
+					
+				<div class="background-overlay"></div>
+						<div class="container">
+							<div class="module mod_custom row" id="">
+				<div class="col-xs-12">
+										<div class="row module-content">
+						<div class="col-xs-12">
+							
+
+<div class="custom"  >
+	</div>
+						</div>
+					</div>
+				</div>
+			</div>
+					<div class="module mod_custom row" id="">
+				<div class="col-xs-12">
+										<div class="row module-content">
+						<div class="col-xs-12">
+							
+
+<div class="custom"  >
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script src="https://www.googletagmanager.com/gtag/js?id=UA-135466757-1" async=""></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-135466757-1');
+</script></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+			</div>
+		</footer>
+		
+
+
+
+</body>
+</html>

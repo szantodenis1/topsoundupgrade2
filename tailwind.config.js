@@ -1,0 +1,65 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
+  theme: {
+    extend: {
+      colors: {
+        dark: {
+          50: '#f8fafc',
+          100: '#f1f5f9',
+          200: '#e2e8f0',
+          300: '#cbd5e1',
+          400: '#94a3b8',
+          500: '#64748b',
+          600: '#475569',
+          700: '#334155',
+          800: '#1e293b',
+          900: '#0f172a',
+          950: '#020617',
+        },
+        accent: {
+          blue: '#0ea5e9',
+          teal: '#14b8a6',
+          purple: '#8b5cf6',
+          pink: '#ec4899',
+        },
+      },
+      fontFamily: {
+        sans: ['"Plus Jakarta Sans"', 'system-ui', 'sans-serif'],
+        orbitron: ['Orbitron', 'sans-serif'],
+      },
+      backdropBlur: {
+        xs: '2px',
+      },
+      animation: {
+        'gradient-x': 'gradient-x 15s ease infinite',
+        'float': 'float 6s ease-in-out infinite',
+        'pulse': 'pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+        'slide-diagonal-1': 'slide-diagonal-1 15s linear infinite',
+        'slide-diagonal-2': 'slide-diagonal-2 20s linear infinite',
+        'slide-diagonal-3': 'slide-diagonal-3 25s linear infinite',
+        'slide-horizontal-1': 'slide-horizontal-1 20s linear infinite',
+        'slide-horizontal-2': 'slide-horizontal-2 25s linear infinite',
+        'float-slow': 'float-slow 10s ease-in-out infinite',
+        'float-medium': 'float-medium 8s ease-in-out infinite',
+        'float-fast': 'float-fast 6s ease-in-out infinite',
+        'pulse-slow': 'pulse-slow 8s ease-in-out infinite',
+        'pulse-medium': 'pulse-medium 6s ease-in-out infinite',
+        'wave-1': 'wave-1 20s linear infinite',
+        'wave-2': 'wave-2 25s linear infinite',
+        'path': 'animate-path 2s linear infinite',
+      },
+    },
+  },
+  plugins: [],
+  safelist: [
+    'border-accent-blue',
+    'border-dark-800',
+    'bg-accent-blue',
+    'bg-dark-800',
+    'via-accent-blue',
+    'via-dark-800',
+    'text-accent-blue',
+    'text-dark-800',
+  ],
+};
